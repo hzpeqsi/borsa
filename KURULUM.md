@@ -1,6 +1,6 @@
 # Borsa Takip: Kurulum Rehberi
 
-Uygulama GitHub'da ücretsiz yayınlanır. Fiyatlar hafta içi günde 3 kez (10:35, 13:35, 18:20) otomatik güncellenir. Bilgisayarınızın açık olmasına gerek yoktur.
+Uygulama GitHub'da ücretsiz yayınlanır. Fiyatlar hafta içi borsa açıkken (10:00–18:15) yaklaşık 15 dakikada bir otomatik güncellenir. Bilgisayarınızın açık olmasına gerek yoktur.
 
 Kurulum bir kez yapılır ve yaklaşık 15 dakika sürer.
 
@@ -53,7 +53,7 @@ Telefonda "Borsa" adında bir simge oluşur, uygulama gibi açılır.
 
 ## Bilmekte fayda var
 
-- **Fiyatlar yaklaşık 15 dakika gecikmelidir** (kaynak: Yahoo Finance) ve günde 3 kez güncellenir. Anlık al-sat için değil, takip için uygundur.
+- **Fiyatlar yaklaşık 15 dakika gecikmelidir** (kaynak: Yahoo Finance) ve borsa açıkken yaklaşık 15 dakikada bir güncellenir. GitHub yoğun saatlerde bu işleri 5–15 dakika geç başlatabilir. Anlık al-sat için değil, takip için uygundur.
 - **Yeni hisse eklemek:** Uygulamada aranabilen ~100 hisse var. Listede olmayan bir hisse için GitHub'da `semboller.txt` dosyasını açın, kalem simgesine basın ve `KOD Şirket adı` şeklinde bir satır ekleyin. Bir sonraki güncellemeden sonra uygulamada görünür.
 - **Güncelleme saatlerini değiştirmek:** `.github/workflows/fiyatlari-guncelle.yml` dosyasındaki `cron` satırları. Saatler UTC'dir, Türkiye saatinden 3 saat geridir.
 - **Alarmlar** fiyatlar güncellendiğinde kontrol edilir. Telefona bildirim gelmez, uygulama açılınca en üstte sarı uyarı olarak görünür.

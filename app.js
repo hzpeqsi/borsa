@@ -175,7 +175,7 @@ function listeCiz() {
     <div class="sorular">
       <button data-eylem="sor-genel">${ikon.soru}Claude'a sor: Bugün borsada neler oldu?</button>
     </div>
-    <p class="not">Fiyatlar günde 3 kez (10:35, 13:35, 18:20) güncellenir ve yaklaşık 15 dakika gecikmelidir. Yatırım tavsiyesi değildir.</p>`;
+    <p class="not">Fiyatlar borsa açıkken yaklaşık 15 dakikada bir güncellenir ve 15 dakika kadar gecikmelidir. Yatırım tavsiyesi değildir.</p>`;
 }
 
 function portfoyHesapla() {
