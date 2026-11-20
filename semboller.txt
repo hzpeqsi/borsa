@@ -1,0 +1,108 @@
+# Uygulamada aranabilecek hisseler. Her satır: KOD  Şirket adı
+# Yeni hisse eklemek için bu dosyaya bir satır ekleyin (GitHub'da kalem simgesiyle düzenlenebilir).
+AEFES Anadolu Efes
+AGHOL AG Anadolu Grubu Holding
+AKBNK Akbank
+AKFYE Akfen Yenilenebilir Enerji
+AKSA Aksa Akrilik
+AKSEN Aksa Enerji
+ALARK Alarko Holding
+ALFAS Alfa Solar Enerji
+ALTNY Altınay Savunma
+ANSGR Anadolu Sigorta
+ARCLK Arçelik
+ARDYZ ARD Bilişim
+ASELS Aselsan
+ASTOR Astor Enerji
+ASUZU Anadolu Isuzu
+BALSU Balsu Gıda
+BERA Bera Holding
+BIMAS BİM Mağazalar
+BJKAS Beşiktaş
+BRSAN Borusan Boru
+BRYAT Borusan Yatırım
+BSOKE Batısöke Çimento
+BTCIM Batıçim
+CANTE Çan2 Termik
+CCOLA Coca-Cola İçecek
+CIMSA Çimsa
+CLEBI Çelebi Hava Servisi
+CVKMD CVK Maden
+CWENE CW Enerji
+DAPGM DAP Gayrimenkul
+DOAS Doğuş Otomotiv
+DOHOL Doğan Holding
+ECILC Eczacıbaşı İlaç
+EFOR Efor Çay
+EGEEN Ege Endüstri
+EKGYO Emlak Konut GYO
+ENERY Enerya Enerji
+ENJSA Enerjisa Enerji
+ENKAI Enka İnşaat
+EREGL Ereğli Demir Çelik
+EUPWR Europower Enerji
+FENER Fenerbahçe
+FROTO Ford Otosan
+GARAN Garanti BBVA
+GESAN Girişim Elektrik
+GLRMK Gülermak
+GRSEL Gür-Sel Turizm
+GSRAY Galatasaray
+GUBRF Gübre Fabrikaları
+HALKB Halkbank
+HEKTS Hektaş
+ISCTR İş Bankası (C)
+ISGYO İş GYO
+ISMEN İş Yatırım
+KARSN Karsan
+KCAER Kocaer Çelik
+KCHOL Koç Holding
+KONTR Kontrolmatik
+KRDMD Kardemir (D)
+KTLEV Katılımevim
+LMKDC Limak Doğu Anadolu Çimento
+MAVI Mavi Giyim
+MGROS Migros
+MIATK Mia Teknoloji
+MPARK MLP Sağlık
+OBAMS Oba Makarnacılık
+ODAS Odaş Elektrik
+OTKAR Otokar
+OYAKC Oyak Çimento
+PASEU Pasifik Eurasia
+PATEK Pasifik Teknoloji
+PETKM Petkim
+PGSUS Pegasus
+QUAGR Qua Granite
+RALYH Ral Yatırım Holding
+REEDR Reeder Teknoloji
+SAHOL Sabancı Holding
+SASA Sasa Polyester
+SAYAS Say Yenilenebilir Enerji
+SELEC Selçuk Ecza
+SISE Şişecam
+SKBNK Şekerbank
+SMRTG Smart Güneş Enerjisi
+SOKM Şok Marketler
+TABGD TAB Gıda
+TAVHL TAV Havalimanları
+TCELL Turkcell
+THYAO Türk Hava Yolları
+TKFEN Tekfen Holding
+TMSN Tümosan
+TOASO Tofaş
+TRALT Türk Altın İşletmeleri
+TSKB Türkiye Sınai Kalkınma Bankası
+TSPOR Trabzonspor
+TTKOM Türk Telekom
+TTRAK Türk Traktör
+TUKAS Tukaş
+TUPRS Tüpraş
+TURSG Türkiye Sigorta
+ULKER Ülker
+VAKBN Vakıfbank
+VESBE Vestel Beyaz Eşya
+VESTL Vestel
+YEOTK Yeo Teknoloji
+YKBNK Yapı Kredi
+ZOREN Zorlu Enerji
